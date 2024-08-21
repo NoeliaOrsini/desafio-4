@@ -9,10 +9,11 @@ Este pequeño programa comienza generando un número aleatorio entre 1 y 10 que 
 - **Revelación del número**: Si no adivinas el número después de los tres intentos, se te informará cuál era el número correcto.
 ## Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
-
-index.html         # Archivo HTML principal
-style.css          # Archivo CSS para estilización básica
-script.js          # Archivo JavaScript con la lógica del juego
+/proyecto
+│
+├── index.html         # Archivo HTML principal
+├── style.css          # Archivo CSS para estilización básica
+└── script.js          # Archivo JavaScript con la lógica del juego
 
 ## Uso
 1. Clona este repositorio en tu máquina local.
