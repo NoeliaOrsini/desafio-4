@@ -24,4 +24,4 @@ O bien puedes utilizar el link desployado.
 - **HTML5**: Para la estructura del contenido.
 - **CSS3**: Para la estilización básica.
 ## Contacto
-Este proyecto fue creado por Noelia Orsini. Puedes contactarme a través de [LinkedIn] https://www.linkedin.com/in/noelia-orsini
+Este proyecto fue creado por Noelia Orsini. Puedes contactarme a través de https://www.linkedin.com/in/noelia-orsini
