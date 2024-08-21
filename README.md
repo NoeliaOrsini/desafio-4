@@ -10,9 +10,9 @@ Este pequeño programa comienza generando un número aleatorio entre 1 y 10 que 
 ## Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
 
-├ index.html         # Archivo HTML principal
-├ style.css          # Archivo CSS para estilización básica
-└ script.js          # Archivo JavaScript con la lógica del juego
+index.html         # Archivo HTML principal
+style.css          # Archivo CSS para estilización básica
+script.js          # Archivo JavaScript con la lógica del juego
 
 ## Uso
 1. Clona este repositorio en tu máquina local.
@@ -20,8 +20,8 @@ El proyecto está organizado de la siguiente manera:
 3. Abre el archivo `index.html` en tu navegador para jugar.
 O bien puedes utilizar el link desployado.
 ## Tecnologías Utilizadas
-- **JavaScript **: Para la lógica del juego, incluyendo la generación de números aleatorios.
+- **JavaScript**: Para la lógica del juego, incluyendo la generación de números aleatorios.
 - **HTML5**: Para la estructura del contenido.
 - **CSS3**: Para la estilización básica.
 ## Contacto
-Este proyecto fue creado por Noelia Orsini. Puedes contactarme a través de [LinkedIn]https://www.linkedin.com/in/noelia-orsini
+Este proyecto fue creado por Noelia Orsini. Puedes contactarme a través de [LinkedIn] https://www.linkedin.com/in/noelia-orsini
