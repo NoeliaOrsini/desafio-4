@@ -11,8 +11,11 @@ Este pequeño programa comienza generando un número aleatorio entre 1 y 10 que 
 El proyecto está organizado de la siguiente manera:
 /proyecto
 │
+
 ├── index.html         # Archivo HTML principal
+
 ├── style.css          # Archivo CSS para estilización básica
+
 └── script.js          # Archivo JavaScript con la lógica del juego
 
 ## Uso
